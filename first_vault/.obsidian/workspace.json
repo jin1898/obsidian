@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "무제 파일.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,12 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d39dbdb7ad96c2d1",
+  "active": "e90aa1e47f4ff54a",
   "lastOpenFiles": [
-    "무제 폴더",
     "create a link.md",
     "Welcome.md",
-    "2024-04-20.md",
-    "무제 파일.md"
+    "무제 파일.md",
+    "무제 폴더",
+    "2024-04-20.md"
   ]
 }
