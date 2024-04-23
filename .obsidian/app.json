@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "",
   "newFileLocation": "folder",
-  "newFileFolderPath": "image_box"
+  "newFileFolderPath": "image_box",
+  "alwaysUpdateLinks": true
 }
