@@ -4,5 +4,7 @@
   "newFileFolderPath": "image_box",
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "livePreview": false
+  "livePreview": true,
+  "showLineNumber": true,
+  "readableLineLength": false
 }
