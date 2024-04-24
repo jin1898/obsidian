@@ -1,0 +1,1 @@
+https://velog.io/@yoonsy/Homebrew%EB%A1%9C-Anaconda-%EC%84%A4%EC%B9%98-%EB%B0%8F-conda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0
