@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "image_box",
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "livePreview": false
 }
